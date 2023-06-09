@@ -16,6 +16,7 @@
 ## 赛题链接
 
 [数据湖流批一体性能优化 竞赛 - DataFountain](https://www.datafountain.cn/competitions/585)
+<br>baseline及数据：https://github.com/meta-soul/ccf-bdci2022-datalake-contest-examples
 
 # 运行方法
 
