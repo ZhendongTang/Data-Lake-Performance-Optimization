@@ -1,0 +1,10 @@
+/target/
+/lakesoul/target/
+/iceberg/target/
+/hudi/target/
+/hudi/dependency-reduced-pom.xml
+/.idea/
+/work-dir/
+CCFResult
+*.iml
+/lakesoul/dependency-reduced-pom.xml
